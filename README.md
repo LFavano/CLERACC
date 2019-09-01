@@ -17,3 +17,5 @@ The label distribution is the following:
 - True 2053
 
 A Python Notebook with the steps to reproduce the dataset starting from json files obtained by Google FactCheckTool is provided.
+
+TODO: Publish paper and dataset soon :)
