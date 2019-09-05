@@ -1,4 +1,4 @@
-# CLERACC
+# CLERAF
 ## Cross-Lingual Evidence Ranking for Automated Fact-checking
 
 Dataset introduced with the paper Deep Multi-Task Learning for Multi-Lingual Claim Detection and Verification.
