@@ -18,4 +18,6 @@ The label distribution is the following:
 
 A Python Notebook with the steps to reproduce the dataset starting from json files obtained by Google FactCheckTool is provided.
 
+![Infographics](https://lucafavano.com/images/portfolio/cleraf.png)
+
 TODO: Publish paper and dataset soon :)
